@@ -19,7 +19,7 @@ class ViewController: UIViewController {
     @IBOutlet weak var myProgressView: UIProgressView!//Esta acción marca la barra de progreso
     @IBOutlet weak var myActivityIndicatior: UIActivityIndicatorView!//Es la rueda de carga
     @IBOutlet weak var myStepperLabel: UILabel!//Son etiquetas sobre el Stepper
-    @IBOutlet weak var mySwitchLabel: UILabel!//
+    @IBOutlet weak var mySwitchLabel: UILabel!//Etiqueta para dar información al usuario
     @IBOutlet weak var myTextField: UITextField!
     @IBOutlet weak var myTextView: UITextView!
     
@@ -242,3 +242,5 @@ extension ViewController: UITextViewDelegate {
     
 }
 
+
+//jsdfjklfsd jsdfjsdjfjsdfjl sdlfksdfjl 
